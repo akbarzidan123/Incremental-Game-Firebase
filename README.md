@@ -1,5 +1,5 @@
 # Incremental-Game-Firebase
 
-Incremental-Game Local
+Incremental Game Local
 
-File Build on release
+File build in Release
